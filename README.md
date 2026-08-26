@@ -24,4 +24,3 @@ This project was developed as part of a BLW internship. It serves as a **sports 
 
 ## Getting Started
 
-1. Clone this repository:
