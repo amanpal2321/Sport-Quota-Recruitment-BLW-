@@ -22,5 +22,5 @@ This project was developed as part of a BLW internship. It serves as a **sports 
 2. **Admin Approval:** Admins log in, view pending requests, and approve or reject applications.
 3. **Status Check:** Candidates can log in and check the status of their application.
 
-## Getting Started
+## Get Started.
 
